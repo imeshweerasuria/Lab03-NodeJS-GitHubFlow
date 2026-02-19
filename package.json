@@ -1,0 +1,20 @@
+{
+  "name": "lab03-nodejs-githubflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imeshweerasuria/Lab03-NodeJS-GitHubFlow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imeshweerasuria/Lab03-NodeJS-GitHubFlow/issues"
+  },
+  "homepage": "https://github.com/imeshweerasuria/Lab03-NodeJS-GitHubFlow#readme"
+}
